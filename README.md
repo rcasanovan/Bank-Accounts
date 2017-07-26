@@ -1,4 +1,4 @@
-# iTunes-code-test
+# Bank accounts test
 This is an iOS sample to get fake bank account information and send this info to Today's Widget
 
 ## Design pattern
