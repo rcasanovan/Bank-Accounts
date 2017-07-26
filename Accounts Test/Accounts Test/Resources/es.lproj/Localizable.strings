@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Accounts Test
+
+  Created by Ricardo Casanova on 26/07/2017.
+  Copyright © 2017 ING. All rights reserved.
+*/
+
+//__ Error
+"Error server title" = "Algo ha pasado";
+"Error server title" = "Ups! :..(";
+
+//__ Accounts
+"Account number" = "Número de cuenta";
+"Account amount" = "Monto";
+"Account name" = "Nombre";
+"Account type" = "Tipo de cuenta";
+
+"Account visible accounts" = "Visibles";
+"Account no visible accounts" = "No visibles";

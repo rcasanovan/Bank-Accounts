@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KWu-1M-hYj"; */
+"KWu-1M-hYj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pss-2d-hIF"; */
+"Pss-2d-hIF.text" = "Label";
+
+/* Class = "UILabel"; text = "Account Amount:"; ObjectID = "dIb-nC-QY0"; */
+"dIb-nC-QY0.text" = "Account Amount:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "irI-KH-OHk"; */
+"irI-KH-OHk.text" = "Label";
+
+/* Class = "UILabel"; text = "Account Number:"; ObjectID = "ylO-bh-X1e"; */
+"ylO-bh-X1e.text" = "Account Number:";
